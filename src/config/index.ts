@@ -2,7 +2,7 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Najeeb Abdi —  Junior Java Developer",
-  author: "Alejandro Múnez Cuntez",
+  author: "Najeeb Yusuf Abdi",
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
